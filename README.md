@@ -173,3 +173,5 @@ https://upload.wikimedia.org/wikipedia/commons/6/67/Xbox-360-Kinect-Standalone.p
 
 Kinect for Xbox 360 - Kinectimals  [vídeo en línia]. 2010 [consulta: 17 de desembre de 2023]. Disponible a: https://www.youtube.com/watch?v=Zs2x3jFTb2E
 
+Kinect for Windows Retail Clothing Scenario Video  [vídeo en línia]. 2013 [consulta: 17 de desembre de 2023]. Disponible a: https://www.youtube.com/watch?v=Mr71jrkzWq8
+
