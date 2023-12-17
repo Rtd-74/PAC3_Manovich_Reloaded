@@ -148,7 +148,7 @@ La tecnologia no va tindre una gran adopció i ara mateix està discontinuada, t
 
 ## Valoració personal
 
-Ens trobem en l'era digital, i per això necessitem crear i redefinir com presentem la informació i els processos que interactuen amb ella i la**hibridació** ens permet crear experiències totalment noves amb elements ja existents.
+Ens trobem en l'era digital, i per això necessitem crear i redefinir com presentem la informació i els processos que interactuen amb ella i la **hibridació** ens permet crear experiències totalment noves amb elements ja existents.
 La tecnologia avança i ens obliga a reinventar-nos tot i que com hem pogut veure no tots els casos s'integren i s'adopten a la nostra cultura.
 
 ## Bibliografia & Webgrafia
