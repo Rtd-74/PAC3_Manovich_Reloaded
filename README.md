@@ -3,7 +3,7 @@ Vivim en l'era digital on les eines/processos de treball s'han redefinit i adapt
 Això ens ha permès combinar aquests processos en un mateix medi, el procés es coneix com ***hibridació***.
 
 ## Que és la hibridació segons Lev Manovich?
-> Agrupación de técnicas y formatos de representación de medios físicos y electrónicos anteriores y las nuevas técnicas de manipulación de la información y formatos de datos exclusivos del ordenador para formar nuevas combinaciones. 
+> *Agrupación de técnicas y formatos de representación de medios físicos y electrónicos anteriores y las nuevas técnicas de manipulación de la información y formatos de datos exclusivos del ordenador para formar nuevas combinaciones.* 
 > "Lev Manovich"
 
 ## Remescla un enfoc diferent a l'hibridació
@@ -18,10 +18,11 @@ En canvi, l'**hibridació** és la convergència i combinació de diferents form
 ## Casos d'hibridació
 Per exemplificar encara millor el concepte d'**hibridació** s'han escollit 2 casos.
 
-**Blender**
+### Blender
 
 ![Logo Blender](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Logo_Blender.svg/1920px-Logo_Blender.svg.png)
-> Logo de Blender
+> Logo de Blender [imatge]. Logo de Blender (2014), Wikipedia [consulta 15 de desembre de 2023]. Disponible a:
+https://es.wikipedia.org/wiki/Archivo:Logo_Blender.svg
 
 **Blender** és un software informàtic de caràcter open source dedicat principalment a la creació d'elements multimèdia, el seu primer llançament va ser al 2 de gener de 1994 i actualment està en constant desenvolupament (versió 4.0 en data de l'any 2023) .
 
@@ -41,7 +42,7 @@ La funcionalitat d'esculpir de **Blender** permet als usuaris modelar objectes d
 
 -   *Animation & rigging (Animació i rigging)*
 
-Blender ofereix eines avançades d'animació, incloent l'ús de rigs per animar personatges. El rigging implica afegir una estructura esquelètica als models per facilitar l'animació.
+**Blender** ofereix eines avançades d'animació, incloent l'ús de rigs per animar personatges. El rigging implica afegir una estructura esquelètica als models per facilitar l'animació.
 
 -   *Story artist (Artista d'històries)*
 
@@ -67,19 +68,94 @@ La canalització en **Blender** es refereix a la gestió del flux de treball, de
 
 Permet als usuaris personalitzar i automatitzar tasques mitjançant l'ús de scripts. Això és especialment útil per als usuaris avançats que volen adaptar el programa a les seves necessitats específiques.
 
+<iframe width="600" height="320" src="https://www.youtube.com/embed/eoY1Mc70uTo?si=WQOy6VjE_VHSPCsC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+> Blender 4.0 - Reel  [vídeo en línia]. 2023 [consulta: 17 de desembre de 2023]. Disponible a: https://www.youtube.com/watch?v=eoY1Mc70uTo
 
 El conjunt i la interconnexió de totes les seves funcionalitats dins un mateix medi proposa un cas d'**hibridació**.
 
-**Microsoft Kinect**
+### Microsoft Kinect
 ![Càmera de Microsoft Kinect](https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Xbox-360-Kinect-Standalone.png/1920px-Xbox-360-Kinect-Standalone.png)
-> Càmera de Microsoft Kinect per a Xbox 360
+> Càmera de Microsoft Kinect per a Xbox 360 [imatge]. (2010), Wikipedia [consulta 15 de desembre de 2023]. Disponible a:
+https://upload.wikimedia.org/wikipedia/commons/6/67/Xbox-360-Kinect-Standalone.png
+
+<iframe width="600" height="320" src="https://www.youtube.com/embed/Zs2x3jFTb2E?si=pnLSCqpJHglIAzBp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+> Kinect for Xbox 360 - Kinectimals  [vídeo en línia]. 2010 [consulta: 17 de desembre de 2023]. Disponible a: https://www.youtube.com/watch?v=Zs2x3jFTb2E
+
+**Kinect** per a Xbox 360, (originalment conegut pel nom en codi "Project Natal"), va ser un "controlador de joc i entreteniment" lliure creat per *Alex Kipman*, desenvolupat per **Microsoft** per a la videoconsola Xbox 360, i des de juny de 2011 també per a PC a través de Windows 7 i Windows 8. 
+
+El 22 de novembre de 2013, va ser llançada una nova revisió juntament amb el llançament de la consola Xbox One. Aquesta versió de **Kinect** va presentar millores en la resolució dels seus sensors, una millor capacitat de seguiment de moviments i reconeixement de veu.
+
+-  *Percepció de Moviments:*
+    
+    -   **Kinect** utilitza una combinació de sensors de profunditat i càmeres per seguir els moviments del cos de l'usuari sense necessitat de controladors. Això permet una interacció més natural amb dispositius i aplicacions.
+    
+-  *Reconeixement de Veu:*
+    
+    -   Microsoft Kinect incorpora tecnologia de reconeixement de veu, permetent als usuaris controlar dispositius i aplicacions mitjançant comandes de veu.
+    
+-  *Escaneig 3D:*
+    
+    -   La capacitat de Kinect per generar núvols de punts en 3D permet als usuaris escanejar objectes o entorns físics i utilitzar aquesta informació en aplicacions digitals.
+    
+-  *Reconeixement Facial:*
+    
+    -   Kinect pot reconèixer rostres i associar-los amb perfils d'usuari. Aquesta característica és utilitzada en jocs i aplicacions d'entreteniment.
+    
+-  *Interacció en Jocs:*
+    
+    -   Originalment va ser dissenyat per a les consoles Xbox, Kinect ofereix una nova dimensió d'interacció en jocs mitjançant el reconeixement de moviments del cos i comandes de veu.
+ 
+     - *Realitat Augmentada:*
+    
+    -   Gràcies a la seva capacitat de percepció de l'entorn, Kinect pot ser utilitzat per integrar elements de realitat augmentada en aplicacions i jocs.
+ 
+-  *Desenvolupament de Software:*
+    
+    -   Microsoft Kinect disposa d'un kit de desenvolupament de programari (SDK) que permet als desenvolupadors crear aplicacions personalitzades que aprofiten les funcionalitats del dispositiu.
+   
+-  *Aplicacions en Salut i Rehabilitació:*
+    
+    -   Kinect s'ha utilitzat en aplicacions de salut i rehabilitació, permetent el seguiment dels moviments dels pacients i facilitant exercicis personalitzats.
+    
+- *Aplicacions en Educació:*
+    
+    -   Kinect s'ha implementat en entorns educatius per millorar l'aprenentatge interactiu, permetent als estudiants interactuar amb continguts digitals mitjançant moviments i veu.
+    
+-  *Experiències Multimèdia:*
+    
+    -   Amb les seves capacitats diverses, Kinect pot proporcionar experiències multimèdia interactives, com ara presentacions artístiques o instal·lacions interactives.
+
+<iframe width="600" height="320" src="https://www.youtube.com/embed/Mr71jrkzWq8?si=I5I4Ph9vnFUfmAcI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+> Kinect for Windows Retail Clothing Scenario Video  [vídeo en línia]. 2013 [consulta: 17 de desembre de 2023]. Disponible a: https://www.youtube.com/watch?v=Mr71jrkzWq8
+
+**Kinect** de manera oficial i malauradament va ser discontinuat l'any 2017, tot i que part de la tecnologia i dels seus conceptes encara són presents en altres camps de la tecnologia (com la realitat augmentada).
 
 ## Valoració personal
+
+**Blender**
+
+**Kinect**
+
 
 ## Bibliografia & Webgrafia
 
 Manovich, Lev Manovich. _El software toma el mando_. Bloomsbury Academic: Editorial UOC, desembre de 2013. ISBN 978-84-9064-022-7
 
+Logo de Blender [imatge]. Logo de Blender (2014), Wikipedia [consulta 15 de desembre de 2023]. Disponible a:
+https://es.wikipedia.org/wiki/Archivo:Logo_Blender.svg
+
+Blender 4.0 - Reel  [vídeo en línia]. 2023 [consulta: 17 de desembre de 2023]. Disponible a: https://www.youtube.com/watch?v=eoY1Mc70uTo
+
 Blender pàgina oficial [https://www.blender.org/features/](https://www.blender.org/features/)
 
 Blender wikipedia [https://es.wikipedia.org/wiki/Blender](https://es.wikipedia.org/wiki/Blender)
+
+Microsoft Kinect wikipedia [https://es.wikipedia.org/wiki/Kinect](https://es.wikipedia.org/wiki/Kinect)
+
+Càmera de Microsoft Kinect per a Xbox 360 [imatge]. (2010), Wikipedia [consulta 15 de desembre de 2023]. Disponible a:
+https://upload.wikimedia.org/wikipedia/commons/6/67/Xbox-360-Kinect-Standalone.png
+
+Kinect for Xbox 360 - Kinectimals  [vídeo en línia]. 2010 [consulta: 17 de desembre de 2023]. Disponible a: https://www.youtube.com/watch?v=Zs2x3jFTb2E
