@@ -133,12 +133,22 @@ El 22 de novembre de 2013, va ser llançada una nova revisió juntament amb el l
 
 **Kinect** de manera oficial i malauradament va ser discontinuat l'any 2017, tot i que part de la tecnologia i dels seus conceptes encara són presents en altres camps de la tecnologia (com la realitat augmentada).
 
-## Valoració personal
+## Conclusions
 
 **Blender**
 
+Aquest software de codi obert adopta un gran ventall d'eines per la creació multimèdia sota la seva màniga, i per això podem dir que el conjunt i la interconnexió de totes les seves funcionalitats dins un mateix medi proposa un cas d'**hibridació**.
+El constant desenvolupament i la versatilitat de l'eina li ha permès guanyar un prestigiós reconeixement i adopció en l'indústria del software de creació multimèdia.
+
 **Kinect**
 
+L'ús de la tecnologia de **Kinect** forma una nova experiència a través de la reinterpretació de la interacció entre el maquinari, el software i l'usuari, per tant, el podem considerar un cas  d'**hibridació**; que primerament va ser pensat  per l'àmbit dels videojocs i després en alliberar-se el kit de desenvolupament a altres.  
+La tecnologia no va tindre una gran adopció i ara mateix està discontinuada, tot i que veiem principis d'aquesta en altres àmbits tecnològics com la realitat augmentada, potser podem considerar-la una tecnologia avançada al seu temps.
+
+## Valoració personal
+
+Ens trobem en l'era digital, i per això necessitem crear i redefinir com presentem la informació i els processos que interactuen amb ella i l'**hibridació** ens permet crear experiències totalment noves amb elements ja existents.
+La tecnologia avança i ens obliga a reinventar-nos tot i que com hem pogut veure no tots els casos s'integren i s'adopten a la nostra cultura.
 
 ## Bibliografia & Webgrafia
 
@@ -149,11 +159,13 @@ https://es.wikipedia.org/wiki/Archivo:Logo_Blender.svg
 
 Blender 4.0 - Reel  [vídeo en línia]. 2023 [consulta: 17 de desembre de 2023]. Disponible a: https://www.youtube.com/watch?v=eoY1Mc70uTo
 
-Blender pàgina oficial [https://www.blender.org/features/](https://www.blender.org/features/)
+Blender pàgina oficial [en línia] [consulta: 15 de desembre de 2023].
+Disponible a: https://www.blender.org/features/
 
-Blender wikipedia [https://es.wikipedia.org/wiki/Blender](https://es.wikipedia.org/wiki/Blender)
+Blender wikipedia [en línia] [consulta: 15 de desembre de 2023].
+Disponible a: https://es.wikipedia.org/wiki/Blender
 
-Microsoft Kinect wikipedia [https://es.wikipedia.org/wiki/Kinect](https://es.wikipedia.org/wiki/Kinect)
+Microsoft Kinect wikipedia [en línia] [consulta: 15 de desembre de 2023]. Disponible a: [https://es.wikipedia.org/wiki/Kinect](https://es.wikipedia.org/wiki/Kinect)
 
 Càmera de Microsoft Kinect per a Xbox 360 [imatge]. (2010), Wikipedia [consulta 15 de desembre de 2023]. Disponible a:
 https://upload.wikimedia.org/wikipedia/commons/6/67/Xbox-360-Kinect-Standalone.png
