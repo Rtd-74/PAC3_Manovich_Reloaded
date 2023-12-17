@@ -1,19 +1,20 @@
+
 > # Hibridació
 Vivim en l'era digital on les eines/processos de treball s'han redefinit i adaptat (*remediació*) a un nou medi (*meta-medi*), l'ordinador. 
 Això ens ha permès combinar aquests processos en un mateix medi, el procés es coneix com ***hibridació***.
 
-## Que és la hibridació segons Lev Manovich?
+## Què és la hibridació segons Lev Manovich?
 > *Agrupación de técnicas y formatos de representación de medios físicos y electrónicos anteriores y las nuevas técnicas de manipulación de la información y formatos de datos exclusivos del ordenador para formar nuevas combinaciones.* 
 > "Lev Manovich"
 
 ## Remescla un enfoc diferent a l'hibridació
-També sorgeix el concepte de **remescla**, el qual pot ser difícil de distingir amb l'**hibridació**.
+També sorgeix el concepte de **remescla**, el qual pot ser difícil de distingir amb la**hibridació**.
 
 La **remescla**, implica prendre elements preexistents i reorganitzar-los per crear un element nou, en el context dels medis es pot referir a la reutilització i reconfiguració de continguts ja existents.
 
 Així doncs, la **remescla** és una reorganització dels elements ja existents per crear un element nou. 
 
-En canvi, l'**hibridació** és la convergència i combinació de diferents formes de mitjans en una única entitat mediàtica, aquest fenomen implica la fusió d'elements provinents de diverses plataformes per crear una nova entitat.
+En canvi, la**hibridació** és la convergència i combinació de diferents formes de mitjans en una única entitat mediàtica, aquest fenomen implica la fusió d'elements provinents de diverses plataformes per crear una nova entitat.
 
 ## Casos d'hibridació
 Per exemplificar encara millor el concepte d'**hibridació** s'han escollit 2 casos.
@@ -87,11 +88,11 @@ https://upload.wikimedia.org/wikipedia/commons/6/67/Xbox-360-Kinect-Standalone.p
 
 El 22 de novembre de 2013, va ser llançada una nova revisió juntament amb el llançament de la consola Xbox One. Aquesta versió de **Kinect** va presentar millores en la resolució dels seus sensors, una millor capacitat de seguiment de moviments i reconeixement de veu.
 
--  *Percepció de Moviments:*
+-  *Percepció de moviments:*
     
     -   **Kinect** utilitza una combinació de sensors de profunditat i càmeres per seguir els moviments del cos de l'usuari sense necessitat de controladors. Això permet una interacció més natural amb dispositius i aplicacions.
     
--  *Reconeixement de Veu:*
+-  *Reconeixement de veu:*
     
     -   Microsoft Kinect incorpora tecnologia de reconeixement de veu, permetent als usuaris controlar dispositius i aplicacions mitjançant comandes de veu.
     
@@ -99,31 +100,31 @@ El 22 de novembre de 2013, va ser llançada una nova revisió juntament amb el l
     
     -   La capacitat de Kinect per generar núvols de punts en 3D permet als usuaris escanejar objectes o entorns físics i utilitzar aquesta informació en aplicacions digitals.
     
--  *Reconeixement Facial:*
+-  *Reconeixement facial:*
     
     -   Kinect pot reconèixer rostres i associar-los amb perfils d'usuari. Aquesta característica és utilitzada en jocs i aplicacions d'entreteniment.
     
--  *Interacció en Jocs:*
+-  *Interacció en jocs:*
     
     -   Originalment va ser dissenyat per a les consoles Xbox, Kinect ofereix una nova dimensió d'interacció en jocs mitjançant el reconeixement de moviments del cos i comandes de veu.
  
-     - *Realitat Augmentada:*
+     - *Realitat augmentada:*
     
     -   Gràcies a la seva capacitat de percepció de l'entorn, Kinect pot ser utilitzat per integrar elements de realitat augmentada en aplicacions i jocs.
  
--  *Desenvolupament de Software:*
+-  *Desenvolupament de software:*
     
     -   Microsoft Kinect disposa d'un kit de desenvolupament de programari (SDK) que permet als desenvolupadors crear aplicacions personalitzades que aprofiten les funcionalitats del dispositiu.
    
--  *Aplicacions en Salut i Rehabilitació:*
+-  *Aplicacions en salut i rehabilitació:*
     
     -   Kinect s'ha utilitzat en aplicacions de salut i rehabilitació, permetent el seguiment dels moviments dels pacients i facilitant exercicis personalitzats.
     
-- *Aplicacions en Educació:*
+- *Aplicacions en educació:*
     
     -   Kinect s'ha implementat en entorns educatius per millorar l'aprenentatge interactiu, permetent als estudiants interactuar amb continguts digitals mitjançant moviments i veu.
     
--  *Experiències Multimèdia:*
+-  *Experiències multimèdia:*
     
     -   Amb les seves capacitats diverses, Kinect pot proporcionar experiències multimèdia interactives, com ara presentacions artístiques o instal·lacions interactives.
 
@@ -138,7 +139,7 @@ El 22 de novembre de 2013, va ser llançada una nova revisió juntament amb el l
 **Blender**
 
 Aquest software de codi obert adopta un gran ventall d'eines per la creació multimèdia sota la seva màniga, i per això podem dir que el conjunt i la interconnexió de totes les seves funcionalitats dins un mateix medi proposa un cas d'**hibridació**.
-El constant desenvolupament i la versatilitat de l'eina li ha permès guanyar un prestigiós reconeixement i adopció en l'indústria del software de creació multimèdia.
+El constant desenvolupament i la versatilitat de l'eina li ha permès guanyar un prestigiós reconeixement i adopció en la indústria del software de creació multimèdia.
 
 **Kinect**
 
@@ -147,7 +148,7 @@ La tecnologia no va tindre una gran adopció i ara mateix està discontinuada, t
 
 ## Valoració personal
 
-Ens trobem en l'era digital, i per això necessitem crear i redefinir com presentem la informació i els processos que interactuen amb ella i l'**hibridació** ens permet crear experiències totalment noves amb elements ja existents.
+Ens trobem en l'era digital, i per això necessitem crear i redefinir com presentem la informació i els processos que interactuen amb ella i la**hibridació** ens permet crear experiències totalment noves amb elements ja existents.
 La tecnologia avança i ens obliga a reinventar-nos tot i que com hem pogut veure no tots els casos s'integren i s'adopten a la nostra cultura.
 
 ## Bibliografia & Webgrafia
@@ -171,3 +172,4 @@ Càmera de Microsoft Kinect per a Xbox 360 [imatge]. (2010), Wikipedia [consulta
 https://upload.wikimedia.org/wikipedia/commons/6/67/Xbox-360-Kinect-Standalone.png
 
 Kinect for Xbox 360 - Kinectimals  [vídeo en línia]. 2010 [consulta: 17 de desembre de 2023]. Disponible a: https://www.youtube.com/watch?v=Zs2x3jFTb2E
+
