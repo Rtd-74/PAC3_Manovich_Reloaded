@@ -69,7 +69,7 @@ La canalització en **Blender** es refereix a la gestió del flux de treball, de
 
 Permet als usuaris personalitzar i automatitzar tasques mitjançant l'ús de scripts. Això és especialment útil per als usuaris avançats que volen adaptar el programa a les seves necessitats específiques.
 
-![Blender 4.0 - Reel](https://img.youtube.com/vi/eoY1Mc70uTo/hqdefault.jpg)](https://www.youtube.com/watch?v=eoY1Mc70uTo)
+[![Blender 4.0 - Reel](https://img.youtube.com/vi/eoY1Mc70uTo/hqdefault.jpg)](https://www.youtube.com/watch?v=eoY1Mc70uTo)
 
 > Blender 4.0 - Reel  [vídeo en línia]. 2023 [consulta: 17 de desembre de 2023]. Disponible a: https://www.youtube.com/watch?v=eoY1Mc70uTo
 
@@ -128,7 +128,7 @@ El 22 de novembre de 2013, va ser llançada una nova revisió juntament amb el l
     
     -   Amb les seves capacitats diverses, Kinect pot proporcionar experiències multimèdia interactives, com ara presentacions artístiques o instal·lacions interactives.
 
-<iframe width="600" height="320" src="https://www.youtube.com/embed/Mr71jrkzWq8?si=I5I4Ph9vnFUfmAcI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+[![Kinect for Windows Retail Clothing Scenario Video](https://img.youtube.com/vi/Mr71jrkzWq8/hqdefault.jpg)](https://www.youtube.com/watch?v=Mr71jrkzWq8)
 
 > Kinect for Windows Retail Clothing Scenario Video  [vídeo en línia]. 2013 [consulta: 17 de desembre de 2023]. Disponible a: https://www.youtube.com/watch?v=Mr71jrkzWq8
 
