@@ -84,6 +84,8 @@ https://upload.wikimedia.org/wikipedia/commons/6/67/Xbox-360-Kinect-Standalone.p
 
 > Kinect for Xbox 360 - Kinectimals  [vídeo en línia]. 2010 [consulta: 17 de desembre de 2023]. Disponible a: https://www.youtube.com/watch?v=Zs2x3jFTb2E
 
+![Kinect for Xbox 360][https://img.youtube.com/vi/https://www.youtube.com/watch?v=Zs2x3jFTb2E/1.jpg](https://www.youtube.com/watch?v=Zs2x3jFTb2E)
+
 **Kinect** per a Xbox 360, (originalment conegut pel nom en codi "Project Natal"), va ser un "controlador de joc i entreteniment" lliure creat per *Alex Kipman*, desenvolupat per **Microsoft** per a la videoconsola Xbox 360, i des de juny de 2011 també per a PC a través de Windows 7 i Windows 8. 
 
 El 22 de novembre de 2013, va ser llançada una nova revisió juntament amb el llançament de la consola Xbox One. Aquesta versió de **Kinect** va presentar millores en la resolució dels seus sensors, una millor capacitat de seguiment de moviments i reconeixement de veu.
