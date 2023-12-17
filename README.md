@@ -69,7 +69,7 @@ La canalització en **Blender** es refereix a la gestió del flux de treball, de
 
 Permet als usuaris personalitzar i automatitzar tasques mitjançant l'ús de scripts. Això és especialment útil per als usuaris avançats que volen adaptar el programa a les seves necessitats específiques.
 
-<iframe width="600" height="320" src="https://www.youtube.com/embed/eoY1Mc70uTo?si=WQOy6VjE_VHSPCsC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+![Blender 4.0 - Reel](https://img.youtube.com/vi/eoY1Mc70uTo/hqdefault.jpg)](https://www.youtube.com/watch?v=eoY1Mc70uTo)
 
 > Blender 4.0 - Reel  [vídeo en línia]. 2023 [consulta: 17 de desembre de 2023]. Disponible a: https://www.youtube.com/watch?v=eoY1Mc70uTo
 
@@ -80,12 +80,9 @@ El conjunt i la interconnexió de totes les seves funcionalitats dins un mateix 
 > Càmera de Microsoft Kinect per a Xbox 360 [imatge]. (2010), Wikipedia [consulta 15 de desembre de 2023]. Disponible a:
 https://upload.wikimedia.org/wikipedia/commons/6/67/Xbox-360-Kinect-Standalone.png
 
-<iframe width="600" height="320" src="https://www.youtube.com/embed/Zs2x3jFTb2E?si=pnLSCqpJHglIAzBp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-> Kinect for Xbox 360 - Kinectimals  [vídeo en línia]. 2010 [consulta: 17 de desembre de 2023]. Disponible a: https://www.youtube.com/watch?v=Zs2x3jFTb2E
-
 [![Kinect for Xbox 360 - Kinectimals](https://img.youtube.com/vi/Zs2x3jFTb2E/hqdefault.jpg)](https://www.youtube.com/watch?v=Zs2x3jFTb2E)
 
+> Kinect for Xbox 360 - Kinectimals  [vídeo en línia]. 2010 [consulta: 17 de desembre de 2023]. Disponible a: https://www.youtube.com/watch?v=Zs2x3jFTb2E
 
 **Kinect** per a Xbox 360, (originalment conegut pel nom en codi "Project Natal"), va ser un "controlador de joc i entreteniment" lliure creat per *Alex Kipman*, desenvolupat per **Microsoft** per a la videoconsola Xbox 360, i des de juny de 2011 també per a PC a través de Windows 7 i Windows 8. 
 
