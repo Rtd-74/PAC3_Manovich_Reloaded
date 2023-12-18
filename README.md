@@ -62,7 +62,7 @@ Permet als usuaris simular fenòmens com fluids, fum i altres comportaments fís
 
 La canalització en **Blender** es refereix a la gestió del flux de treball, des de la creació fins a la sortida final. Això inclou la integració amb altres eines i la planificació del procés creatiu.
 
--   *(Edició de vídeo)*
+-   Video Editing *(Edició de vídeo)*
 
 **Blender** disposa d'eines d'edició de vídeo integrades que permeten als usuaris muntar i editar seqüències d'animació o filmacions.
 
