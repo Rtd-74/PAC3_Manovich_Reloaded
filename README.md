@@ -8,16 +8,17 @@ Això ens ha permès combinar aquests processos en un mateix medi, el procés es
 > "Lev Manovich"
 
 ## Remescla un enfoc diferent a l'hibridació
-També sorgeix el concepte de **remescla**, el qual pot ser difícil de distingir amb la**hibridació**.
+També sorgeix el concepte de ***remescla***, el qual pot ser difícil de distingir amb la ***hibridació***.
 
-La **remescla**, implica prendre elements preexistents i reorganitzar-los per crear un element nou, en el context dels medis es pot referir a la reutilització i reconfiguració de continguts ja existents.
+La ***remescla***, implica prendre elements preexistents i reorganitzar-los per crear un element nou, en el context dels medis es pot referir a la reutilització i reconfiguració de continguts ja existents.
 
-Així doncs, la **remescla** és una reorganització dels elements ja existents per crear un element nou. 
+Així doncs, la ***remescla*** és una reorganització dels elements ja existents per crear un element nou. 
 
-En canvi, la**hibridació** és la convergència i combinació de diferents formes de mitjans en una única entitat mediàtica, aquest fenomen implica la fusió d'elements provinents de diverses plataformes per crear una nova entitat.
+En canvi, la ***hibridació*** és la convergència i combinació de diferents formes de mitjans en una única entitat mediàtica, aquest fenomen implica la fusió d'elements provinents de diverses plataformes per crear una nova entitat.
 
 ## Casos d'hibridació
-Per exemplificar encara millor el concepte d'**hibridació** s'han escollit 2 casos.
+
+Per exemplificar encara millor el concepte d'***hibridació*** s'han escollit 2 casos.
 
 ### Blender
 
@@ -73,7 +74,7 @@ Permet als usuaris personalitzar i automatitzar tasques mitjançant l'ús de scr
 
 > Blender 4.0 - Reel  [vídeo en línia]. 2023 [consulta: 17 de desembre de 2023]. Disponible a: https://www.youtube.com/watch?v=eoY1Mc70uTo
 
-El conjunt i la interconnexió de totes les seves funcionalitats dins un mateix medi proposa un cas d'**hibridació**.
+El conjunt i la interconnexió de totes les seves funcionalitats dins un mateix medi proposa un cas d'***hibridació***.
 
 ### Microsoft Kinect
 ![Càmera de Microsoft Kinect](https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Xbox-360-Kinect-Standalone.png/1920px-Xbox-360-Kinect-Standalone.png)
@@ -94,39 +95,40 @@ El 22 de novembre de 2013, va ser llançada una nova revisió juntament amb el l
     
 -  *Reconeixement de veu:*
     
-    -   Microsoft Kinect incorpora tecnologia de reconeixement de veu, permetent als usuaris controlar dispositius i aplicacions mitjançant comandes de veu.
+    -   Microsoft **Kinect** incorpora tecnologia de reconeixement de veu, permetent als usuaris controlar dispositius i aplicacions mitjançant comandes de veu.
     
 -  *Escaneig 3D:*
     
-    -   La capacitat de Kinect per generar núvols de punts en 3D permet als usuaris escanejar objectes o entorns físics i utilitzar aquesta informació en aplicacions digitals.
+    -   La capacitat de **Kinect** per generar núvols de punts en 3D permet als usuaris escanejar objectes o entorns físics i utilitzar aquesta informació en aplicacions digitals.
     
 -  *Reconeixement facial:*
     
-    -   Kinect pot reconèixer rostres i associar-los amb perfils d'usuari. Aquesta característica és utilitzada en jocs i aplicacions d'entreteniment.
+    -   **Kinect** pot reconèixer rostres i associar-los amb perfils d'usuari. Aquesta característica és utilitzada en jocs i aplicacions d'entreteniment.
     
 -  *Interacció en jocs:*
     
-    -   Originalment va ser dissenyat per a les consoles Xbox, Kinect ofereix una nova dimensió d'interacció en jocs mitjançant el reconeixement de moviments del cos i comandes de veu.
+    -   Originalment va ser dissenyat per a les consoles Xbox, **Kinect** ofereix una nova dimensió d'interacció en jocs mitjançant el reconeixement de moviments del cos i comandes de veu.
  
      - *Realitat augmentada:*
     
-    -   Gràcies a la seva capacitat de percepció de l'entorn, Kinect pot ser utilitzat per integrar elements de realitat augmentada en aplicacions i jocs.
+    -   Gràcies a la seva capacitat de percepció de l'entorn, **Kinect** pot ser utilitzat per integrar elements de realitat augmentada en aplicacions i jocs.
  
 -  *Desenvolupament de software:*
     
-    -   Microsoft Kinect disposa d'un kit de desenvolupament de programari (SDK) que permet als desenvolupadors crear aplicacions personalitzades que aprofiten les funcionalitats del dispositiu.
+    -   Microsoft **Kinect** disposa d'un kit de desenvolupament de programari (*SDK*) que permet als desenvolupadors crear aplicacions personalitzades que aprofiten les funcionalitats del dispositiu.
+> *Kinect SDK*  https://learn.microsoft.com/es-es/windows/apps/design/devices/kinect-for-windows
    
 -  *Aplicacions en salut i rehabilitació:*
     
-    -   Kinect s'ha utilitzat en aplicacions de salut i rehabilitació, permetent el seguiment dels moviments dels pacients i facilitant exercicis personalitzats.
+    -   **Kinect** s'ha utilitzat en aplicacions de salut i rehabilitació, permetent el seguiment dels moviments dels pacients i facilitant exercicis personalitzats.
     
 - *Aplicacions en educació:*
     
-    -   Kinect s'ha implementat en entorns educatius per millorar l'aprenentatge interactiu, permetent als estudiants interactuar amb continguts digitals mitjançant moviments i veu.
+    -   **Kinect** s'ha implementat en entorns educatius per millorar l'aprenentatge interactiu, permetent als estudiants interactuar amb continguts digitals mitjançant moviments i veu.
     
 -  *Experiències multimèdia:*
     
-    -   Amb les seves capacitats diverses, Kinect pot proporcionar experiències multimèdia interactives, com ara presentacions artístiques o instal·lacions interactives.
+    -   Amb les seves capacitats diverses, **Kinect** pot proporcionar experiències multimèdia interactives, com ara presentacions artístiques o instal·lacions interactives.
 
 [![Kinect for Windows Retail Clothing Scenario Video](https://img.youtube.com/vi/Mr71jrkzWq8/hqdefault.jpg)](https://www.youtube.com/watch?v=Mr71jrkzWq8)
 
@@ -138,22 +140,28 @@ El 22 de novembre de 2013, va ser llançada una nova revisió juntament amb el l
 
 **Blender**
 
-Aquest software de codi obert adopta un gran ventall d'eines per la creació multimèdia sota la seva màniga, i per això podem dir que el conjunt i la interconnexió de totes les seves funcionalitats dins un mateix medi proposa un cas d'**hibridació**.
+Aquest software de codi obert adopta un gran ventall d'eines per la creació multimèdia sota la seva màniga, i per això podem dir que el conjunt i la interconnexió de totes les seves funcionalitats dins un mateix medi proposa un cas d' ***hibridació***.
 El constant desenvolupament i la versatilitat de l'eina li ha permès guanyar un prestigiós reconeixement i adopció en la indústria del software de creació multimèdia.
 
 **Kinect**
 
-L'ús de la tecnologia de **Kinect** forma una nova experiència a través de la reinterpretació de la interacció entre el maquinari, el software i l'usuari, per tant, el podem considerar un cas  d'**hibridació**; que primerament va ser pensat  per l'àmbit dels videojocs i després en alliberar-se el kit de desenvolupament a altres.  
+L'ús de la tecnologia de **Kinect** forma una nova experiència a través de la reinterpretació de la interacció entre el maquinari, el software i l'usuari, per tant, el podem considerar un cas  d' ***hibridació***; que primerament va ser pensat  per l'àmbit dels videojocs i després en alliberar-se el kit de desenvolupament a altres.  
 La tecnologia no va tindre una gran adopció i ara mateix està discontinuada, tot i que veiem principis d'aquesta en altres àmbits tecnològics com la realitat augmentada, potser podem considerar-la una tecnologia avançada al seu temps.
 
 ## Valoració personal
 
-Ens trobem en l'era digital, i per això necessitem crear i redefinir com presentem la informació i els processos que interactuen amb ella i la **hibridació** ens permet crear experiències totalment noves amb elements ja existents.
+Ens trobem en l'era digital, i per això necessitem crear i redefinir com presentem la informació i els processos que interactuen amb ella i la ***hibridació*** ens permet crear experiències totalment noves amb elements ja existents.
 La tecnologia avança i ens obliga a reinventar-nos tot i que com hem pogut veure no tots els casos s'integren i s'adopten a la nostra cultura.
 
 ## Bibliografia & Webgrafia
 
 Manovich, Lev Manovich. _El software toma el mando_. Bloomsbury Academic: Editorial UOC, desembre de 2013. ISBN 978-84-9064-022-7
+
+Conocimiento Abierto y Tecnología [en línia] [consulta: 15 de desembre de 2023].
+Disponible a: https://juan.psicologiasocial.eu/conocimiento-y-tecnologia
+
+Lord of the Files [en línia] [consulta: 15 de desembre de 2023].
+Disponible a: https://github.com/WiredEnterprise/Lord-of-the-Files
 
 Logo de Blender [imatge]. Logo de Blender (2014), Wikipedia [consulta 15 de desembre de 2023]. Disponible a:
 https://es.wikipedia.org/wiki/Archivo:Logo_Blender.svg
@@ -172,6 +180,8 @@ Càmera de Microsoft Kinect per a Xbox 360 [imatge]. (2010), Wikipedia [consulta
 https://upload.wikimedia.org/wikipedia/commons/6/67/Xbox-360-Kinect-Standalone.png
 
 Kinect for Xbox 360 - Kinectimals  [vídeo en línia]. 2010 [consulta: 17 de desembre de 2023]. Disponible a: https://www.youtube.com/watch?v=Zs2x3jFTb2E
+
+Kinect SDK [en línia] [consulta: 15 de desembre de 2023]. Disponible a: [hhttps://learn.microsoft.com/es-es/windows/apps/design/devices/kinect-for-windows](https://learn.microsoft.com/es-es/windows/apps/design/devices/kinect-for-windows)
 
 Kinect for Windows Retail Clothing Scenario Video  [vídeo en línia]. 2013 [consulta: 17 de desembre de 2023]. Disponible a: https://www.youtube.com/watch?v=Mr71jrkzWq8
 
